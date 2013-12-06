@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Entrega 1ª Sprint juniFEUP",
+        "description": "",
+        "started": "2013-11-28 17:00:00",
+        "deadline": "2013-12-19 15:30:00"
+    },
+    {
+        "name": "3ª Sprint LDSO",
+        "description": "",
+        "started": "2013-11-30 08:00:00",
+        "deadline": "2013-12-13 09:00:00"
+    },
+    {
+        "name": "Trabalho MFES",
+        "description": "Stratego game implemented in VDM++",
+        "started": "2013-11-13 11:30:00",
+        "deadline": "2013-12-06 23:55:00"
+    },
+    {
+        "name": "Trabalho AIAD",
+        "description": "",
+        "started": "2013-09-27 16:30:00",
+        "deadline": "2013-12-13 23:55:00"
+    },
+    {
+        "name": "Projeto GEMP",
+        "description": "",
+        "started": "2013-11-26 09:00:00",
+        "deadline": "2013-12-16 09:00:00"
+    }
+]
